@@ -1,4 +1,4 @@
-# ELB with stickiness Example
+# Terraform ELB with stickiness Example
 
 The example launches a web server, installs nginx, creates an ELB for instance. It also creates security groups for the ELB and EC2 instance. 
 
